@@ -1,12 +1,8 @@
-# Backup Automation
-
-## Descripción
-
+Backup Automation
+Descripción
 Backup Automation es un proyecto de automatización desarrollado en Python cuyo objetivo es realizar copias de seguridad automáticas de una carpeta seleccionada por el usuario. El programa genera una carpeta de respaldo con la fecha y hora actuales para facilitar la recuperación de archivos importantes.
 
----
-
-## Características
+Características
 
 - Automatiza copias de seguridad.
 - Evita pérdida de información.
@@ -14,9 +10,7 @@ Backup Automation es un proyecto de automatización desarrollado en Python cuyo 
 - Fácil de utilizar.
 - Compatible con Windows y Linux.
 
----
-
-## Requisitos
+Requisitos
 
 Antes de ejecutar el proyecto es necesario contar con:
 
@@ -24,12 +18,8 @@ Antes de ejecutar el proyecto es necesario contar con:
 - Visual Studio Code
 - Git
 - Sistema operativo Windows o Linux
-
----
-
-## Instalación
-
-### 1. Clonar el repositorio
+Instalación
+1. Clonar el repositorio
 
 ```bash
 git clone https://github.com/usuario/backup-automation.git
@@ -47,9 +37,7 @@ cd backup-automation
 python backup.py
 ```
 
----
-
-## Ejemplo de uso
+Ejemplo de uso
 
 Al ejecutar el programa se mostrará:
 
@@ -65,13 +53,12 @@ Ruta:
 C:\Backups\Backup_2026_07_09
 ```
 
----
-
 ## Resultado esperado
 
 Después de ejecutar el programa se genera automáticamente una carpeta de respaldo con todos los archivos copiados correctamente.
 
-*(Aquí insertar una captura de pantalla del resultado.)*
+
+
 
 ---
 
